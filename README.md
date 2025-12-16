@@ -22,7 +22,7 @@
 ## 安装
 
 ```bash
-go get github.com/yourusername/exception
+go get github.com/liu-dc/exception
 ```
 
 ## 包结构
