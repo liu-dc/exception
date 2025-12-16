@@ -2,7 +2,8 @@ package try
 
 import (
 	"testing"
-	"exception/throw"
+
+	"github.com/liu-dc/exception/throw"
 )
 
 func TestTryIndex(t *testing.T) {
