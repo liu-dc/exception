@@ -1,8 +1,9 @@
 package try
 
 import (
-	"exception/throw"
 	"fmt"
+
+	"github.com/liu-dc/exception/throw"
 )
 
 // ErrorHandler 异常处理函数签名
